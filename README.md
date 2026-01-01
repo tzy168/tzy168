@@ -12,15 +12,14 @@
 const developer = {
   name: "refe",
   role: "前端工程师",
-  location: "中国",
   currentFocus: "React & TypeScript",
-  learning: ["Next.js", "微前端架构", "性能优化"],
+  learning: ["Next.js", "性能优化"],
   hobbies: ["编码", "开源", "技术分享"],
 };
 ```
 
 - 🔭 我正在开发 **NoteNote** - 一个现代化的笔记应用
-- 🌱 我正在学习 **Next.js** 和 **微前端架构**
+- 🌱 我正在学习 **Next.js**
 - 👯 我希望在 **开源项目** 上合作
 - 💬 问我关于 **React**, **TypeScript**, **前端架构** 的任何问题
 - 📫 如何联系我: [3265577395@qq.com]
@@ -86,12 +85,6 @@ const developer = {
   </a>
   <a href="https://github.com/tzy168">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/tzy168">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tzy168">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
