@@ -1,7 +1,7 @@
 # Hi, 我是 tzy168 👋
 
-欢迎来到我的 GitHub 主页
-持续探索前端 + Agent...
+- 欢迎来到我的 GitHub 主页
+- 持续探索前端 + Agent...
 
 ---
 
@@ -17,9 +17,9 @@
 
 ## 🛠 技术栈
 
-前端：React、Typescript、Javascript、NextJs
-后端：Python、NodeJs、FastApi、NestJs
-Agent：LangChain、LangGraph、Human-in-Loop、Function Calling、Agent Loop、RAG
+- 前端：React、Typescript、Javascript、NextJs
+- 后端：Python、NodeJs、FastApi、NestJs
+- Agent：LangChain、LangGraph、Human-in-Loop、Function Calling、Agent Loop、RAG
 
 ---
 
